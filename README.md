@@ -4,7 +4,7 @@ API REST em Java (Eclipse JEE 2018-12) para desafio da B2W
 O Projeto: Criar API rest para armazenar dados (nome,clima,terreno)de planetas dos filmes da Franquia Star Wars Retornando também as aparições em filmes registradas na API pública Star Wars :https://swapi.co/
 
 Funcionalidades:
-.Adicionar planetas(nome,clima,terreno)
+.Adicionar planetas(nome,clima,terreno,filmes)
 .Listar planetas
 .Buscar por nome
 .Buscar por ID 
